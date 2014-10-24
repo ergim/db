@@ -30,7 +30,7 @@ public class db {
             Class.forName(dirver);
             String db="jdbc:odbc:db1";
             con=DriverManager.getConnection(db);
-            //SMENA
+            //SMENA NNN
             
         
             
